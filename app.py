@@ -79,4 +79,4 @@ else:
 st.markdown("")
 st.markdown("---")
 st.markdown("")
-st.markdown("<p style='text-align: center'><a href='https://github.com/Kaludii'>Github</a> | <a href='https://huggingface.co/Kaludi'>HuggingFace</a></p>", unsafe_allow_html=True)
+st.markdown("")
